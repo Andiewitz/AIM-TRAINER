@@ -2,7 +2,7 @@ RANGE - AIM TRAINER
 
 Open index.html in Chrome or Edge. The trainer includes Three.js locally and works offline.
 
-Choose a drill, adjust settings, and press Start training. Move the mouse to aim and click to shoot. For Strafe tracking, hold the left mouse button on the target. Press Escape to pause; click Resume to continue. The session ends when the timer runs out.
+Choose a drill, adjust settings, and press Start training. Move the mouse to aim and click to shoot. For Strafe tracking, follow the target with your crosshair without clicking. Your score measures seconds and percentage of session time on target. Press Escape to pause; click Resume to continue. The session ends when the timer runs out.
 
 Best scores are stored in your browser on this computer. Compare scores using the same session duration and settings. Browser and OS mouse handling can affect sensitivity. This trainer does not simulate CS2 movement, recoil, hitboxes, or game physics.
 
