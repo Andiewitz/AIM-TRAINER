@@ -10,3 +10,5 @@ Three.js r160: https://github.com/mrdoob/three.js/blob/r160/LICENSE
 Training references: https://aimlabs.com/articles/aimlabs/train-micros-and-flicking-in-counter-strike-2-with-the-aim-basics-routine/ and https://prosettings.net/blog/how-to-create-perfect-cs2-warmup/
 
 SENSITIVITY: Enter the exact CS2 sensitivity and use the same mouse DPI. The trainer requests unadjusted mouse input to avoid OS acceleration. If your browser cannot supply it, the range falls back to adjusted input and displays that status. Even with raw input, field of view, resolution, and browser behavior can change the feel. Compare a full 360-degree turn on your mousepad.
+
+AWP CROSSING: Right-click to toggle the scope and left-click to fire at the ball through the gap between the double doors. Shots are blocked by the wall and door leaves. The AWP has a short cycling delay between shots. Target size and movement speed affect this drill.
